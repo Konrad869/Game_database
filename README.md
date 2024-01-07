@@ -1,1 +1,1 @@
-Aplikacja Game_database to aplikacja dodawająca do bazy gier gry z nazwą z oceną i z opisem oraz z  możliwością usuwanai ich z bazy.
+The Game_database application is an application that adds games with a name, rating and description to the game database and allows them to be removed from the database.
