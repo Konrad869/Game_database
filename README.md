@@ -4,7 +4,7 @@ The Game_database application is an application that adds games with a name, rat
 Tech
 
 
-JobOffers is developed using following technologies:
+ Game_database is developed using following technologies:
 
 
  
