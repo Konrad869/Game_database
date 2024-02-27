@@ -1,3 +1,4 @@
+'use strict';
 class Game {
     constructor(title, rating, description) {
         this.title = title;
